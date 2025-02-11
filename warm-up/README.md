@@ -10,4 +10,12 @@ Some easy to understand examples to touch the surface.
 4.
 
 
+## Instructions
+
+`
+    $ kotlinc <file-name>.kt -include-runtime -d <file-name>.jar
+    $ java -jar <file-name>.jar
+
+`
+
 
