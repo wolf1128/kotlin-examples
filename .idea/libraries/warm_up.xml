@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="warm-up">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/warm-up/oop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/warm-up/variables.jar!/" />
+      <root url="jar://$PROJECT_DIR$/warm-up/hello.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

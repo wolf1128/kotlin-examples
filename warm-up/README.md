@@ -7,7 +7,8 @@ Some easy to understand examples to touch the surface.
 1. hello
 2. variables
 3. oop
-4.
+4. loops
+5. 
 
 
 ## Instructions

@@ -56,7 +56,7 @@ class Outer {
         fun foo() = 2
     }
 
-    inner class Inner {
+    inner class Inner { // features: can access members of the outer class.
         fun foo() = bar
     }
 }
