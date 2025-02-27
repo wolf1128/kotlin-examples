@@ -1,3 +1,5 @@
+// loops
+
 fun main(args: Array<String>) {
     println("Example 1:")
     val data = intArrayOf(1, 2, 4, 8, 16, 32, 64);
