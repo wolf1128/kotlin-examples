@@ -13,7 +13,8 @@ Some easy to understand examples to touch the surface.
 7. null
 8. branch
 9. delegations
-10.
+10. overloading
+11. equality
 
 ## Instructions
 
